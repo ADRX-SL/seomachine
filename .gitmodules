@@ -1,0 +1,3 @@
+[submodule ".agents/marketingskills"]
+	path = .agents/marketingskills
+	url = https://github.com/ADRX-SL/marketingskills.git
