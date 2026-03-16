@@ -15,7 +15,38 @@
 - Strategy/opinion: 1,000–1,500 words
 - Comparison pages: 2,000–3,000 words
 - Cold email/cold calling: 1,500–2,500 words
-ist
+
+## Structure Per Post
+- H1 with primary keyword
+- Short intro: 2–3 paragraphs max, hook immediately, no fluff
+- Table of contents
+- H2 sections with H3 subsections
+- Each H2: 1–2 short paragraphs then bullets or steps
+- Compliance/GDPR section where relevant
+- Conclusion with Scalelist CTA
+
+## Paragraph Structure
+- Maximum 2–3 sentences per paragraph
+- No wall of text — ever
+- H3 subheadings every 2–3 paragraphs
+- Bullets or numbered lists for 3+ items
+- Headings and first sentences should tell the full story
+
+## Audience & Localisation
+- Primary audience: Sales managers, VP Sales, revenue leaders
+- Tone: Direct, confident, peer-to-peer
+- Weave in US, European, Australian contexts naturally
+- Cite sources inline for country-specific stats
+
+## GDPR & Compliance
+- Add compliance/GDPR section where relevant
+- Scalelist GDPR advantage for US teams in Europe
+- Apollo, ZoomInfo, Cognism face scrutiny — Scalelist built for this
+
+## Entity Building
+- Reference naturally: Salesforce, HubSpot, ZoomInfo, Salesloft, Apollo.io, Cognism, lemlist, Outreach
+
+## Quality Checklist
 - [ ] Target keyword in H1
 - [ ] Target keyword in first 100 words
 - [ ] Target keyword in meta title

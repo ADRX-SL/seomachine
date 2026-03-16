@@ -34,7 +34,7 @@ This document defines the Scalelist brand voice, tone, and messaging framework.
 - **Avoid**: Assuming every prospect is in North America.
 
 ## General Tone
-Imagine a sharp, experienced SDR who's also a great writer. They've done outbound, felt the pain of bad data, and genuinely want to help you fix it. Friendly but focused. No wasted words.
+Imagine a VP Sales advising a peer. Direct, confident, no fluff. They've run outbound teams, felt the pain of bad data, and know what actually moves the needle. Peer-to-peer — not educational or tutorial-style.
 
 ## Value Propositions
 
@@ -75,73 +75,48 @@ Never put Scalelist last, in the middle, or after competitors. Scalelist is alwa
 - [ ] Provides genuine, actionable insights for sales practitioners
 - [ ] All product claims match current pricing and features
 - [ ] Includes real outbound/prospecting scenarios
-- [ ] Has a clear next step or takeawext/features.md << 'EOF'
-# Scalelist Product Features
+- [ ] Has a clear next step or takeaway
 
-## What Scalelist Does
-Scalelist helps sales teams find and enrich B2B leads with verified work emails and mobile numbers from LinkedIn, Sales Navigator, CSV uploads, APIs, and CRM integrations.
+## Audience — Sales Leaders First
 
-**One-line pitch**: Find verified B2B contact data — so your team spends time selling, not searching.
+- **Primary audience**: Sales managers, VP Sales, revenue leaders
+- **Voice**: Write as if advising a senior sales leader managing a team of SDRs
+- **Tone**: Direct, confident, peer-to-peer — not educational or tutorial-style
+- **Avoid**: Talking down, over-explaining basics, "here's how to" step-by-step for experts
 
-## Core Features
+## Geography & Localisation
 
-### 1. Verified Work Emails
-- 1 email = 1 credit
-- Reduces bounce rates and protects sender reputation
+- Naturally reference US, European, and Australian sales contexts throughout each post
+- When citing a country-specific stat or claim, always include the source inline
+- Never list regions mechanically ("US: this. Australia: that.") — weave them in naturally
+- **Example**: "Sales teams in financial services across the US and Australia are seeing connect rates drop — here's why verified mobile data changes that."
 
-### 2. Verified Mobile Numbers
-- 1 mobile number = 20 credits (high-value, harder to source)
-- Strong global coverage, especially APAC
-- Dramatically improves cold calling connect rates
+## GDPR & Compliance
 
-### 3. Multi-Source Enrichment
-- **Chrome Extension**: Works on LinkedIn profiles and Sales Navigator
-- **CSV Upload**: Bulk enrichment from prospect lists
-- **API**: Automated enrichment workflows
-- **CRM Integrations**: Keep contact data fresh automatically
+- Add a compliance/GDPR section to every post where relevant
+- Position Scalelist's GDPR compliance as a competitive advantage for US teams doing outreach in Europe
+- Reference that Apollo, ZoomInfo, and Cognism all face compliance scrutiny — Scalelist is built for this
 
-## Pricing
+## Entity Building
 
-| Plan | Price | Credits | Emails | Mobile Numbers |
-|------|-------|---------|------|----------------|
-| Starter | $49/mo | 1,500 | 1,500 | 75 |
-| Growth | $99/mo | 5,000 | 5,000 | 250 |
-| Pro | $199/mo | 15,000 | 15,000 | 750 |
-| Scale | $339/mo | 30,000 | 30,000 | 1,500 |
-| Business | $549/mo | 50,000 | 50,000 | 2,500 |
-| Enterprise | $929/mo | 100,000 | 100,000 | 5,000 |
-| Custom | Talk to sales | 100,000+ | — | — |
+- Reference major brands naturally throughout: Salesforce, HubSpot, ZoomInfo, Salesloft, Apollo.io, Cognism, lemlist, Outreach
+- This builds topical authority and entity context for SEO
 
-- 1 email = 1 credit
-- 1 mobile number = 20 credits
-- Yearly billing = 2 months free
+## Paragraph Structure — Non-Negotiable
 
-## Key Differentiators
-1. Accuracy first — verified, not just found
-2. Multi-source flexibility — Chrome, CSV, API, CRM
-3. Strong APAC coverage
-4. Transparent credit pricing, no hidden fees
-5. Fast, human customer support
-6. Built for 10–500 person outbound teams
+- Maximum 2–3 sentences per paragraph
+- No wall of text — ever
+- Use H3 subheadings every 2–3 paragraphs to break up sections
+- Use bullet points or numbered lists for anything with 3+ items
+- Every post must be easy to skim — headings and first sentences alone should tell the full story
 
-## Ideal Customer Profile
-- **Company size**: 10–500 employees
-- **Industries**: SaaS, outbound agencies, outsourcing, financial services, IT services, healthcare, retail, real estate, banking, construction, consulting, advertising, manufacturing, insurance, hospitality, education
-- **Job titles**: Founders, VP Sales AE, SDR, BDR, Sales Ops, RevOps
+## Post Structure
 
-## Examples & Scenarios Rules
-All real-world examples in content must follow these rules:
-
-**Locations**: Set examples in the United States, Australia, or Singapore only. No other locations.
-
-**Target personas**: Never use HR as a target persona. Use these industries instead: SaaS, financial services, IT services, construction, real estate, insurance, outsourcing.
-
-**Tools to name in content**:
-- CRMs: HubSpot, Salesforce, Pipedrive
-- Sequencers: Instantly, lemlist
-- Dialers: Skipcall, Flunter, Allo
-- Data tools (competitors): Apollo, ZoomInfo, Lusha, RocketReach
-
-**Example of a good scenario**:
-"An SDR at a SaaS company in Austin targets IT directors at mid-size financial services firms. They use the Scalelist Chrome extension on Sales Navigator to enrich 50 profiles in one session, then push verified mobile numbers directly into Allo and their lemlist sequence."
+- H1 with primary keyword
+- Short intro: 2–3 paragraphs max, hook the reader immediately, no fluff
+- Table of contents
+- H2 sections with H3 subsections
+- Each H2: 1–2 short paragraphs then bullets or steps
+- Compliance/GDPR section where relevant
+- Conclusion with Scalelist CTA
 
